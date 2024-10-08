@@ -41,5 +41,3 @@ credentials.json
 *.log
 .devcontainer.json
 
-# Ignore all .pdf files
-*.pdf
